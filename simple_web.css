@@ -1,0 +1,95 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: rgb(51, 0, 0);
+    position: fixed;
+}
+li{
+    display: inline;
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+ul{
+    position: relative;
+    left: 700px;
+    bottom: 40px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}    
+a:hover{
+    color: gray;
+}
+h1{
+    color: white;
+    margin-top: 50px;
+    margin-left: 150px;
+    font-size: 50px;
+}
+.nav{
+    background-color: rgb(50, 0, 0);
+}
+img{
+    position: relative;
+    bottom: 100px;
+    left: 50px;
+}
+.bar{
+    position: relative;
+    left: 800px;
+    bottom: 100px;
+}
+.writting{
+    font-size: 25px;
+    color: white;
+    width: 700px;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 50px;
+    position: relative;
+    top: 25px;
+}
+h2{
+    color: rgb(205, 133, 0);
+    font-family: Satisfy;
+}
+h3{
+    margin-top: 30px;
+    font-family: Lobster;
+}
+p{
+    margin-top: 30px;
+    font-family: Cormorant Garamond;
+}
+button{
+    font-size: 30px;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 50px;
+    position: relative;
+    bottom: 450px;
+    margin-left: 60px;
+    font-family: Anton;
+    transition: ease-in;
+    transition-duration: 500ms;
+}
+button:hover{
+    box-shadow: 4px 5px 8px white;
+}
+.one{
+    background-color: rgb(210, 136, 0);
+}
+.two{
+    background-color: rgb(50, 0, 0);
+        color: white;
+}
+h4{
+    position: relative;
+    bottom: 300px;
+    left: 1380px;
+    color: white;
+}
