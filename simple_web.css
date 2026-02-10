@@ -75,7 +75,7 @@ button{
     margin-left: 60px;
     font-family: Anton;
     transition: ease-in;
-    transition-duration: 500ms;
+    transition-duration: 200ms;
 }
 button:hover{
     box-shadow: 4px 5px 8px white;
