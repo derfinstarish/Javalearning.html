@@ -32,6 +32,6 @@
         const footer = document.querySelector('footer');
 
         footer.addEventListener('click', () => {
-            alert('Thank you for visiting our website! We hope to see you again soon.');
+            alert('Thank you very much for visiting our website! We hope to see you again soon.');
         });
 
